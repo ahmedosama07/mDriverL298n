@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map mDriverLM398n
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Motor KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+l298n KEYWORD2
+drive KEYWORD2
+brake KEYWORD2
+left KEYWORD2
+right KEYWORD2
+forward KEYWORD2
+back KEYWORD2
